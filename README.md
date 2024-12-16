@@ -161,3 +161,66 @@ Modlist ;;
 - _supermartijn642corelib-1.1.17a-forge-mc1.12.jar
 - FermiumBooter-1.1.1.jar
 ```
+
+
+- - - 
+
+1. Minecraft Launcher (Vanilla)
+Installing from a modpack file (e.g., .zip)
+
+- Download the modpack (usually a .zip, .jar, or .rar file).
+- Extract the modpack folder to a location of your choice using a tool like WinRAR or 7-Zip.
+- Open the Minecraft Launcher.
+- Click on "Installations" in the top menu.
+- Click on "New Installation".
+- In the "Version" drop-down, select the Forge version that corresponds to the modpack.
+- Under "More Options", locate the "Game Directory" field.
+- Change the Game Directory to the folder where you extracted your modpack.
+- Click "Create" and then select your newly created profile from the main screen.
+- Click "Play" to launch Minecraft with your modpack.
+
+- - -
+
+2. Modrinth Launcher
+Installing a modpack using a .mrpack file:
+
+- Download the .mrpack file from Modrinth or another source.
+- Open the Modrinth Launcher. (install it if you dont have it and want it)
+- On the main screen, click the "+" icon or "Create Instance" in the bottom left corner.
+- Select "From File".
+- Browse for the downloaded .mrpack file and select it.
+- The launcher will automatically extract and install the modpack.
+- Once the modpack is installed, you can select it from the "My Modpacks" tab.
+- Click "Play" to launch Minecraft with the modpack.
+
+- - -
+
+3. MultiMC Launcher
+Installing a modpack from a file (e.g., .zip or .tar.gz):
+
+- Download the modpack file (e.g., .zip, .tar.gz, .jar).
+- Open the MultiMC Launcher. (install it if you dont have it and want it)
+- In the MultiMC interface, click "Add Instance" in the top left.
+- Select "Import from ZIP" or "Import from Folder" if your modpack is a .zip file or a folder.
+- Locate the modpack .zip file you downloaded and select it.
+- MultiMC will automatically extract the modpack and set up the instance.
+- Once it’s imported, you can select the modpack instance from the main MultiMC screen.
+- Click "Launch" to start the modpack.
+
+```Note: If your modpack is in a folder, just select "Import from Folder" and choose the folder containing the modpack files.```
+
+- - -
+
+4. CurseForge Launcher
+Installing a modpack from a .zip
+
+- Download the modpack (usually a .zip)
+- Open the CurseForge Launcher. (install it if you dont have it and want it)
+- On the left-hand side, click "Minecraft" to view your Minecraft modpacks.
+- In the bottom-left corner, click on the "Import" button (it may appear as an "Import Modpack" or a "+").
+- Browse for the downloaded modpack file on your computer.
+- Once selected, the CurseForge Launcher will extract and set up the modpack for you.
+- After installation, you can find your modpack in the "My Modpacks" section.
+- Click "Play" to start the game with your modpack.
+
+```Note : curseforge sucks ass lol```
