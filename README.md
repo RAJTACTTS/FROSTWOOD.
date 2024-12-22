@@ -15,7 +15,7 @@
 # FROSTWOOD™
 - Forge, 1.12.2, FML 14.23.5.2860
 - Recommended ram allocation ; 8 GB - 16 GB, high ram allocations may perform worse/with more glitches than already exist. 
-- This is NOT A FINISHED PRODUCT. This is a passion project i am simply uploading to Migraine craft for its Winter Season. it's only meant to be a 200-300 day season.
+- This is NOT A FINISHED PRODUCT. This is a passion project i am simply uploading to gain more opinions.
 ---
 ## DESCRIPTION ;;
 - Hello, welcome to frostwood. This modpack is based around DARKWOOD and other psychological horror games/elements.
