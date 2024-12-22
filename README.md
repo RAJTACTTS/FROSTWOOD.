@@ -12,7 +12,7 @@
 </h1>
 
 ---
-- FROSTWOOD™
+# FROSTWOOD™
 - Forge, 1.12.2, FML 14.23.5.2860
 - Recommended ram allocation ; 8 GB - 16 GB, high ram allocations may perform worse/with more glitches than already exist. 
 - This is NOT A FINISHED PRODUCT. This is a passion project i am simply uploading to Migraine craft for its Winter Season. it's only meant to be a 200-300 day season.
@@ -28,8 +28,9 @@
 - ADDENDUM 3 ; RAIN and STORMS progress as quests go on. you WILL have cold nights and heavy storms. this is NON. NEGOTIABLE.
 
 ![logo](https://github.com/user-attachments/assets/a2262408-a28b-4ddb-b37b-735cd01b715a "FROSTWOOD")
+
+# Modlist ;;
 ```
-Modlist ;;
 - !mixinbooter-10.1.jar
 - advanced_darkness-1.12.2-1.5.jar
 - AmbientSounds_v3.1.5_mc1.12.2.jar
@@ -162,7 +163,7 @@ Modlist ;;
 - FermiumBooter-1.1.1.jar
 ```
 
-
+# installing ;;
 - - - 
 
 1. Minecraft Launcher (Vanilla)
