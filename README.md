@@ -1,3 +1,10 @@
+- [TITLE](https://github.com/RAJTACTTS/FROSTWOOD./tree/main?tab=readme-ov-file#frostwood)
+- [RECOMMENDED SPECS](https://github.com/RAJTACTTS/FROSTWOOD./tree/main?tab=readme-ov-file#frostwood-1)
+- [MODLIST](https://github.com/RAJTACTTS/FROSTWOOD./tree/main?tab=readme-ov-file#modlist-)
+- [INSTALL INSTRUCTIONS](https://github.com/RAJTACTTS/FROSTWOOD./tree/main?tab=readme-ov-file#installing-)
+
+
+
 # FROSTWOOD
 <h1>
 <p align="center">
