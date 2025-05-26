@@ -27,7 +27,9 @@
 - ADDENDUM 2 ; weight gain cannot be changed, either through config nor cheats. the only way to offset it is to PLAN YOUR TRAVELS. be smart, live longer.
 - ADDENDUM 3 ; RAIN and STORMS progress as quests go on. you WILL have cold nights and heavy storms. this is NON. NEGOTIABLE.
 
-<img src="https://github.com/user-attachments/assets/a2262408-a28b-4ddb-b37b-735cd01b715a" alt="FROSTWOOD" width="75%"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a2262408-a28b-4ddb-b37b-735cd01b715a" alt="FROSTWOOD" width="50%"/>
+</div>
 
 
 
